@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '7394'
     url: http://www.gutenberg.org/2009/agents/7394
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17450#The-Part-Borne-by-the-Dutch-in-the-Discovery-of-Australia-1606-1765
 gutenberg_bookshelf: Australia
 gutenberg_issued: '2006-01-03'
 gutenberg_type: Text
